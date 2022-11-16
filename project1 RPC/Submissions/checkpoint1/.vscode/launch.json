@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": true,
+      "cwd": "/Users/christy/Desktop/15640 Distributed System/15640 Spring 2022/Projects/Project1/Submissions/checkpoint1",
+      "environment": [],
+      "program": "/Users/christy/Desktop/15640 Distributed System/15640 Spring 2022/Projects/Project1/Submissions/checkpoint1/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "externalConsole": true
+    }
+  ]
+}
